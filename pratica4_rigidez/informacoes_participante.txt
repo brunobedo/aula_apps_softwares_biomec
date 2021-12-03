@@ -1,0 +1,6 @@
+Massa: 87 
+Velocidade: 16
+Frequencia: 480
+Comprimento perna: 0.94
+Frames de contato: 117
+Fase aerea: 61
