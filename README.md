@@ -2,8 +2,7 @@
 
 
 ### Os conteúdos foram desenvolvidos para aula de “Uso de Tecnologias de avaliação utilizando apps, softwares”.
-
-### Prof. Dr. Bruno Luiz Souza Bedo
+Prof. Dr. Bruno Luiz Souza Bedo
 _____
 
 ## Tópicos
