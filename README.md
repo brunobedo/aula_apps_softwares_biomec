@@ -22,5 +22,5 @@ As atividades estão divididas em pastas, as quais contém todos os arquivos nec
 ## Sugestão de softwares e linguagens de programação para realizar as tarefas
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd543"/> [Link](https://www.python.org/)<br>
 <img alt="Ocatave" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/> [Link](https://www.gnu.org/software/octave/index)<br>
-<img alt="Kinovea" src="https://img.shields.io/badge/KINOVEA-green?style=for-the-badge&logo=octave&logoColor=fcd683"/> [Link](https://www.kinovea.org/)<br>
+<img alt="Kinovea" src="https://img.shields.io/badge/KINOVEA-green?style=for-the-badge&logo=computer&logoColor=fcd683"/> [Link](https://www.kinovea.org/)<br>
 
